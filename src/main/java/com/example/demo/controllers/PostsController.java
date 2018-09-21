@@ -1,6 +1,6 @@
 package com.example.demo.controllers;
 
-import com.example.demo.database.dto.PostDto;
+import com.example.demo.dto.PostDto;
 import com.example.demo.services.PostsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

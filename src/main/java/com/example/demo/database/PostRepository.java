@@ -1,6 +1,6 @@
-package com.example.demo.database.repository;
+package com.example.demo.database;
 
-import com.example.demo.database.dto.PostDto;
+import com.example.demo.dto.PostDto;
 
 import java.util.HashMap;
 import java.util.Map;

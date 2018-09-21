@@ -1,4 +1,4 @@
-package com.example.demo.database.dto;
+package com.example.demo.dto;
 
 public class PostDto {
 

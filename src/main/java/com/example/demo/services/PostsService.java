@@ -1,9 +1,9 @@
 package com.example.demo.services;
 
-import com.example.demo.database.dto.PostDto;
+import com.example.demo.dto.PostDto;
 import org.springframework.stereotype.Service;
 
-import static com.example.demo.database.repository.PostRepository.getPostMap;
+import static com.example.demo.database.PostRepository.getPostMap;
 
 @Service
 public class PostsService {
