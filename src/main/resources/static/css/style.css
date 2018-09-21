@@ -1,0 +1,25 @@
+h1 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+th {
+    width: 70px;
+    text-align: left;
+    vertical-align: top;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
+
+td {
+    background-color: cornflowerblue;
+    border: 1px solid black;
+}
